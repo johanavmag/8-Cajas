@@ -1,5 +1,9 @@
+body {
+	background-image: url("http://i42.photobucket.com/albums/e307/claireebarker/decorative%20backgrounds/bg-grey-pink-stroke.gif");
+	background-color: #737373;
+}
 div{
-	background-color: #999999;
+	background-image: url("http://us.123rf.com/450wm/julietphotography/julietphotography1203/julietphotography120300016/12957658-polka-dots,-seamless-pattern,-grey,-mixed-pink.jpg");
 	border: 3px solid white;
 	height: 150px;
 	width: 150px;
@@ -13,6 +17,7 @@ div{
 .segundo1 {
 	display: inline-block;
 	margin:2px;
+	background-image: url("http://cache4.asset-cache.net/xc/464262029.jpg?v=2&c=IWSAsset&k=2&d=4DIZ3eCv9ozhazDndVzkWMnzZGzDbNsg0Pq4zuv2xxAE0kTOH9C6ULdr5ZADyw8G0");
 }
 .dos {
 	display: inline-block;
