@@ -5,6 +5,7 @@ body {
 div{
 	background-image: url("http://us.123rf.com/450wm/julietphotography/julietphotography1203/julietphotography120300016/12957658-polka-dots,-seamless-pattern,-grey,-mixed-pink.jpg");
 	border: 3px solid white;
+	border-radius: 30px;
 	height: 150px;
 	width: 150px;
 	margin:1px;
