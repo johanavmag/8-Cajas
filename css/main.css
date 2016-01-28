@@ -1,0 +1,19 @@
+div{
+	background-color: #999999;
+	border: 3px solid white;
+	height: 150px;
+	width: 150px;
+	margin:1px;
+}
+.segundo {
+	height: 160px;
+	width:493px;
+	padding: 10px
+}
+.segundo1 {
+	display: inline-block;
+	margin:2px;
+}
+.dos {
+	display: inline-block;
+}
